@@ -1,6 +1,7 @@
 # MagicWanduino
  
 This is a "magic wand" shape matching game that utilizes gesture recognition, BLE communication, and serial communication.
+
 [Video Demonstation](https://youtu.be/bBsMakcZ1H0)
 
 Boards used:
